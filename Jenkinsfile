@@ -1,4 +1,4 @@
-def containerName="docker-pipeline"
+def containerName="jenkinsproj"
 def dockerHubUser="511993"
 def httpPort="8090"
 
